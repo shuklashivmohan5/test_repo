@@ -1,0 +1,4 @@
+Font - face, size, color
+Achor Tag <a>
+href
+target = "blank"
