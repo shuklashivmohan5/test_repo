@@ -1,0 +1,5 @@
+Form Tag
+Attribute-Action, Get, Post.
+Action
+input-type, placeholder, name, value, label.
+input type-Radio, checkbox, text, date, time, email,textarea.
