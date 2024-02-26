@@ -1,0 +1,17 @@
+p{
+    font-size: 3rem;
+    text-align: center;
+}
+h1{
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline wavy ;
+    border: dashed black;
+    border-radius: 50%;
+    padding: 15px;
+    color:darkred;
+}
+body{
+    background-color:cadetblue;
+    margin: 0%;
+}
